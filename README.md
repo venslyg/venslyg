@@ -22,12 +22,12 @@
 ---
 
 ## 🚀 Projects & Experience
- **Airline ticket booking** system for easy ticket booking using C# <br>
- **Garment management system**  to automate garment activites C# <br>
- **Interactive music site** to play various music instrument using HTML, CSS, JavaScript <br>
- **IoT Based wildlife Railway tracking system** to address a major wildlife problem in Sri Lanka <br>
- **Hospital Management System** using SpringBoot and React <br>
- **Tution Management Mobile App** using android studio <br>
+🔹 **Airline ticket booking** system for easy ticket booking using C# <br>
+🔹 **Garment management system**  to automate garment activites C# <br>
+🔹 **Interactive music site** to play various music instrument using HTML, CSS, JavaScript <br>
+🔹 **IoT Based wildlife Railway tracking system** to address a major wildlife problem in Sri Lanka <br>
+🔹 **Hospital Management System** using SpringBoot and React <br>
+🔹 **Tution Management Mobile App** using android studio <br>
 
 ---
 
