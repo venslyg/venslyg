@@ -15,19 +15,19 @@
 ## 👨‍💻 Who Am I?
 🔹 Software Engineering undergraduate<br>
 🔹 Proffessional keyboardist<br>
-🔹 Passionate about **fullstack** software development
-🔹 Passionate about **Mobile application** devolopment
-🔹 Exploring **AI & Machine Learning** for intelligent tech solutions  
+🔹 Passionate about **fullstack** software development <br>
+🔹 Passionate about **Mobile application** devolopment <br>
+🔹 Exploring **AI & Machine Learning** for intelligent tech solutions <br>
 
 ---
 
 ## 🚀 Projects & Experience
- **Airline ticket booking** system for easy ticket booking using C#
- **Garment management system**  to automate garment activites C#
- **Interactive music site** to play various music instrument using HTML, CSS, JavaScript
- **IoT Based wildlife Railway tracking system** to address a major wildlife problem in Sri Lanka
- **Hospital Management System** using SpringBoot and React
- **Tution Management Mobile App** using android studio
+ **Airline ticket booking** system for easy ticket booking using C# <br>
+ **Garment management system**  to automate garment activites C# <br>
+ **Interactive music site** to play various music instrument using HTML, CSS, JavaScript <br>
+ **IoT Based wildlife Railway tracking system** to address a major wildlife problem in Sri Lanka <br>
+ **Hospital Management System** using SpringBoot and React <br>
+ **Tution Management Mobile App** using android studio <br>
 
 ---
 
